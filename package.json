@@ -1,0 +1,26 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "\"chalk\"",
+  "type": "module",
+  "main": "",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "",
+    "url": "git+https://github.com/QUser011/aqa-adv.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "QUser011",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QUser011/aqa-adv/issues"
+  },
+  "homepage": "https://github.com/QUser011/aqa-adv#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
