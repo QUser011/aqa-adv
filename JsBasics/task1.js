@@ -3,20 +3,21 @@
 
 let userName;
 userName = "Мах";
-console.log ("User Name;",userName);
+console.log ("User Name;", userName);
 
 let userAge;
 userAge = 33;
-console.log ("Age:",userAge);
+console.log ("Age:", userAge);
 
-let genderMail = true;
-if (genderMail) {console.log("sex:","male");
-}else {
-    console.log("sex:","female");
+let genderMale = true;
+if (genderMale) {
+    console.log("sex:", "male");
+} else {
+    console.log("sex:", "female");
 }
 
 let married = null;
-console.log ("family status:",married);
+console.log ("family status:", married);
 
 let politicalAttitudes;
 console.log ("Political Attitudes:", politicalAttitudes);
